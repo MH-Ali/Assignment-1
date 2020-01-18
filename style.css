@@ -1,0 +1,58 @@
+body{
+	background: dodgerblue;
+	margin:0; padding: 0;
+	font-size: 200%;
+	text-transform: uppercase;
+	position:relative;
+}
+
+.header{
+	height: 80px;
+	background:#FFD900;
+}
+
+.content{
+	height:650px;
+	margin-top: 10px;
+	overflow:hidden;
+}
+
+.nav{
+	background:#FFD900;
+	margin-right: 1%;
+	width:20%;
+	float:left;
+	height:650px
+}
+
+.article{
+	background:#FFD900;
+	width:60%;
+	float:left;
+	height:650px;
+}
+
+.ads{
+	background: #FFD900;
+    height: 650px;
+    width: 18%;
+    float: left;
+    margin-left: 1%;
+}
+	
+
+
+.footer{
+	background:#FFD900;
+	height:80px;
+	margin-top: 10px;
+	
+}
+
+h1{
+	margin: 0;
+	text-align: center;
+
+
+	
+}
